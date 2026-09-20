@@ -1,0 +1,11 @@
+actual,predicted,count
+HR Support,Hardware,125
+Hardware,HR Support,123
+Hardware,Miscellaneous,122
+Miscellaneous,Hardware,84
+Hardware,Access,76
+HR Support,Miscellaneous,76
+Miscellaneous,HR Support,66
+Administrative rights,Hardware,57
+Access,Hardware,50
+Hardware,Administrative rights,46
