@@ -1,0 +1,22 @@
+{
+  "records": 47837,
+  "classes": 8,
+  "train_records": 38269,
+  "test_records": 9568,
+  "duplicate_rows": 0,
+  "duplicate_documents": 0,
+  "best_model": "linear_svm",
+  "models": {
+    "linear_svm": {
+      "accuracy": 0.8633988294314381,
+      "macro_f1": 0.8615206204197849,
+      "weighted_f1": 0.8634863267262425
+    },
+    "logistic_regression": {
+      "accuracy": 0.857232441471572,
+      "macro_f1": 0.8571290018856752,
+      "weighted_f1": 0.8578421591718111
+    }
+  },
+  "test_errors": 1307
+}
